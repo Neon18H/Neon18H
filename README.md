@@ -1,8 +1,10 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<h2>🎭 Mood: Mr. Robot Style</h2>
-<img src="https://media1.tenor.com/m/EmyRSrnL58sAAAAd/mr-robot-mr-robot-elliot-wipe-everything.gif" alt="Mr Robot Elliot Wipe Everything" width="600" />
+## ​ Mood: Mr. Robot Style
+
+![Mr Robot Elliot Wipe Everything](https://media1.tenor.com/m/EmyRSrnL58sAAAAd/mr-robot-mr-robot-elliot-wipe-everything.gif)
+
 
 
 <div align="center">
