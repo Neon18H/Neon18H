@@ -6,20 +6,9 @@
 <h2> I am, Fabio Valois <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <h3 align="center">Software Engineer | cybersecurity engineer | software architect </h3>
-**Neon18H/Neon18H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<svg width="1600" height="420" viewBox="0 0 1600 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">Space Hero Animated</title>
-<desc id="desc">Animated deep-space header with parallax stars, nebula and comet</desc>
-<defs>
-<!-- Gradiente de fondo profundo -->
-<radialGradient id="sky" cx="60%" cy="40%" r="90%">
-<stop offset="0%" stop-color="#0ea5e9"/>
-<stop offset="35%" stop-color="#4338ca"/>
-<stop offset="70%" stop-color="#312e81"/>
-<stop offset="100%" stop-color="#090a12"/>
-</radialGradient>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
