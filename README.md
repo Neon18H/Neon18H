@@ -47,7 +47,9 @@ I am a **Software Architect**, **Software Engineer**, and **Cybersecurity Specia
    <a href= "https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <a href= "https://www.instagram.com/hams_art18?igsh=YzQ4dWs4bzJhZWEy">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+   </a>
 </span>
 
 
