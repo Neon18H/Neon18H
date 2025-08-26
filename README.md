@@ -1,8 +1,7 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-<img align="right" width=300px alt="Unicorn"
-src="https://tenor.com/es/view/mr-robot-mr-robot-elliot-wipe-everything-gif-18270678" />
+<div class="tenor-gif-embed" data-postid="18270678" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mr-robot-mr-robot-elliot-wipe-everything-gif-18270678">Mr Robot Mr Robot Elliot Wipe Everything GIF</a>from <a href="https://tenor.com/search/mr+robot-gifs">Mr Robot GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div align="center">
 <h2> I am, Fabio Valois <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
