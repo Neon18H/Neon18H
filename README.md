@@ -7,16 +7,17 @@
 </div>
 <h3 align="center">Software Engineer | cybersecurity engineer | software architect </h3>
 
-Here are some ideas to get you started:
+## 🌌 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a **Software Architect**, **Software Engineer**, and **Cybersecurity Specialist** passionate about building solutions that are both **functional** and **secure**.
+
+✨ My focus is on:
+- 🛡️ Designing secure architectures
+- 🖥️ Software development with best practices
+- ☁️ Cloud security and automation
+- 🔍 Threat analysis and incident response
+
+🚀 Always looking to learn new technologies and share knowledge with the community..
 -->
 ## My Skills Include
 
