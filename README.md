@@ -2,7 +2,10 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 <h2>🎭 Mood</h2>
-<img src="https://media.tenor.com/6MZtGfyFcf4AAAAd/mr-robot-mr-robot.gif" width="600" alt="Mr Robot Elliot">
+## 🎭 Mood
+
+![Mr Robot Elliot](https://media.tenor.com/6MZtGfyFcf4AAAAd/mr-robot-mr-robot.gif)
+
 
 
 <div align="center">
