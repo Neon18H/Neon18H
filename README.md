@@ -1,6 +1,8 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+<h2> Mood: Visual</h2>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ3dHhmd2lweDkzdzVkaGNoc2ZmOXVmdDRibTRwYm9hbTN3aTBzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif" alt="Action GIF" width="600">
 
 <div align="center">
 <h2> I am, Fabio Valois <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
