@@ -8,10 +8,8 @@ Security-by-design cloud architectures · Vulnerability management · Identity s
 
 <a href="https://www.credly.com/badges/254262a4-45ee-47d1-80ed-121ea79c0ffd/linked_in_profile"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
 
-<a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 <p>
-<img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
+<a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
 </p>
 
 </div>
