@@ -11,7 +11,7 @@ Security-by-design cloud architectures · Vulnerability management · Identity s
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF9900&center=true&vCenter=true&width=520&lines=Secure+by+design%2C+not+by+accident.;Cloud+%C2%B7+Offensive+Security+%C2%B7+AI+Security;Least+privilege+or+it%27s+not+done." alt="Typing SVG">
 
 <p>
-<a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
+<a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://profile.hackthebox.com/profile/019dfe11-6145-736d-9ead-ee34a94797e3"><img src="https://img.shields.io/badge/Hack_The_Box-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"></a> <img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
 </p>
 
 </div>
@@ -56,7 +56,7 @@ $ cat ./focus.txt
 ## Beyond the code
 
 - ⚖️ I studied **law for three semesters** before switching to software engineering. I still read security policies like contracts.
-- 🚩 I play **CTFs on Hack The Box**: breaking things on purpose so I know how to protect them. Some of my write-ups live in [htb-writeups](https://github.com/Neon18H/htb-writeups).
+- 🚩 I play **CTFs on Hack The Box**: breaking things on purpose so I know how to protect them. Check my [HTB profile](https://profile.hackthebox.com/profile/019dfe11-6145-736d-9ead-ee34a94797e3) and some [write-ups](https://github.com/Neon18H/htb-writeups).
 - 🧠 I research how **LLM guardrails** can be bypassed through "context washing", and what that means for AI assistants in security.
 - 🏗️ I'm building **ArchiPlan** because I believe every architect should think in components, trade-offs and decisions.
 - 🎤 I enjoy teaching and speaking: security only works when people understand it.
