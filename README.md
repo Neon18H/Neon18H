@@ -8,6 +8,8 @@ Security-by-design cloud architectures · Vulnerability management · Identity s
 
 <a href="https://www.credly.com/badges/254262a4-45ee-47d1-80ed-121ea79c0ffd/linked_in_profile"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FF9900&center=true&vCenter=true&width=520&lines=Secure+by+design%2C+not+by+accident.;Cloud+%C2%B7+Offensive+Security+%C2%B7+AI+Security;Least+privilege+or+it%27s+not+done." alt="Typing SVG">
+
 <p>
 <a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
 </p>
@@ -27,6 +29,17 @@ Now **AWS Certified**, I focus on designing cloud solutions that are secure from
 - 🎤 Speaker on AI risks in cybersecurity at Talento Tech Colombia (Colombian Ministry of ICT)
 - 🚩 Team lead of **UMBRA**, a competitive CTF team
 
+```bash
+$ whoami
+fabio_valois  # cloud security engineer · AWS certified · CTF player
+
+$ cat ./focus.txt
+- Secure-by-design cloud architectures on AWS
+- Vulnerability management & identity security (AD / Entra ID)
+- Offensive security, DFIR and detection engineering
+- LLM & AI agent security research
+```
+
 ## Featured projects
 
 | Project | What it does | Stack |
@@ -36,6 +49,16 @@ Now **AWS Certified**, I focus on designing cloud solutions that are secure from
 | [**SIEM-SOC BUHO**](https://github.com/Neon18H/SIEM-SOC---BUHO) | Multi-tenant SIEM MVP: log ingestion from agents, dark SOC dashboard, JWT API and retention jobs | Django · DRF · PostgreSQL · HTMX |
 | [**ULTRISCAN**](https://github.com/Neon18H/ULTRISCAN) | Defensive vulnerability management platform: asset inventory, Nmap scans via Celery, correlation and findings with remediation | Django · PostgreSQL · Celery · Redis · Docker |
 | [**htb-writeups**](https://github.com/Neon18H/htb-writeups) | Hack The Box machine and Sherlock write-ups | Offensive security · DFIR |
+
+## Beyond the code
+
+- ⚖️ I studied **law for three semesters** before switching to software engineering. I still read security policies like contracts.
+- 🚩 I lead **UMBRA**, a competitive CTF team: breaking things on purpose so we know how to protect them.
+- 🧠 I research how **LLM guardrails** can be bypassed through "context washing", and what that means for AI assistants in security.
+- 🏗️ I'm building **ArchiPlan** because I believe every architect should think in components, trade-offs and decisions.
+- 🎤 I enjoy teaching and speaking: security only works when people understand it.
+
+> *"If it isn't least privilege, it isn't done."*
 
 ## Tech stack
 
@@ -56,10 +79,6 @@ Now **AWS Certified**, I focus on designing cloud solutions that are secure from
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#">
 </p>
-
-## Currently learning
-
-Terraform · AWS serverless (Lambda, API Gateway, Step Functions) · AI agent security
 
 ---
 
