@@ -83,6 +83,14 @@ $ cat ./focus.txt
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#">
 </p>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neon18H/Neon18H/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neon18H/Neon18H/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Neon18H/Neon18H/output/github-snake.svg">
+</picture>
+</div>
+
 ---
 
 <div align="center"><sub>Open to Cloud Security and Solutions Architecture opportunities · Medellín, Colombia · Remote</sub></div>
