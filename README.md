@@ -1,64 +1,81 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+
+# Fabio Valois
+
+**Cloud Security Engineer · AWS Certified Solutions Architect – Associate**
+
+Security-by-design cloud architectures · Vulnerability management · Identity security · Incident response
+
+<a href="https://www.credly.com/badges/254262a4-45ee-47d1-80ed-121ea79c0ffd/linked_in_profile"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
+
+<a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
+
 </div>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamQ3dHhmd2lweDkzdzVkaGNoc2ZmOXVmdDRibTRwYm9hbTN3aTBzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif" 
-     alt="Cyber GIF" 
-     align="right" 
-     width="300">
 
+---
 
-<div align="center">
-<h2> I am, Fabio Valois <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
-<h3 align="center">Software Engineer | cybersecurity engineer | software architect </h3>
+## About me
 
-## 🌌 About Me
+I'm a cybersecurity engineer and software engineering student from Medellín, Colombia, with 3+ years of experience in vulnerability management, security baselines, identity security (Active Directory / Microsoft Entra ID), DFIR and offensive security.
 
-I am a **Software Architect**, **Software Engineer**, and **Cybersecurity Specialist** passionate about building solutions that are both **functional** and **secure**.
+Now **AWS Certified**, I focus on designing cloud solutions that are secure from day one, following the AWS Well-Architected Framework: security, reliability, performance and cost.
 
-✨ My focus is on:
-- 🛡️ Designing secure architectures
-- 🖥️ Software development with best practices
-- ☁️ Cloud security and automation
-- 🔍 Threat analysis and incident response
+- 🛡️ Currently: vulnerability management, security baselines and offensive security at **hitss (Claro Colombia)**
+- 🏢 Founder of **[UltriaTech](https://ultriatech.cloud)**, a cybersecurity and AI consultancy
+- 🎤 Speaker on AI risks in cybersecurity at Talento Tech Colombia (Colombian Ministry of ICT)
+- 🚩 Team lead of **UMBRA**, a competitive CTF team
 
-🚀 Always looking to learn new technologies and share knowledge with the community..
--->
-## My Skills Include
+## Featured projects
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-</span>
+| Project | What it does | Stack |
+|---|---|---|
+| [**HONEY_MULTISERVICE**](https://github.com/Neon18H/HONEY_MULTISERVICE) | Multi-service honeypot infrastructure with automated analysis and MITRE ATT&CK mapping (software engineering thesis) | Docker · Wazuh · MITRE ATT&CK |
+| [**ArchiPlan**](https://github.com/Neon18H/ArchiPlan) | Web tool for solutions architects to design architectures component by component | JavaScript · Node.js |
+| [**SIEM-SOC BUHO**](https://github.com/Neon18H/SIEM-SOC---BUHO) | Multi-tenant SIEM MVP: log ingestion from agents, dark SOC dashboard, JWT API and retention jobs | Django · DRF · PostgreSQL · HTMX |
+| [**ULTRISCAN**](https://github.com/Neon18H/ULTRISCAN) | Defensive vulnerability management platform: asset inventory, Nmap scans via Celery, correlation and findings with remediation | Django · PostgreSQL · Celery · Redis · Docker |
+| [**htb-writeups**](https://github.com/Neon18H/htb-writeups) | Hack The Box machine and Sherlock write-ups | Offensive security · DFIR |
 
-<h4> Frameworks, Platforms and Libraries  </h4>
-<span>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
-</span>
+## Tech stack
 
-<h4> Social media </h4>
-<span>
-   <a href= "https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-  <a href= "https://www.instagram.com/hams_art18?igsh=YzQ4dWs4bzJhZWEy">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-   </a>
-</span>
+**Cloud & DevOps**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Neon18H&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neon18H&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neon18H&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
 
+**Security**
+
+<img src="https://img.shields.io/badge/Wazuh-3595D3?style=flat-square&logoColor=white" alt="Wazuh">
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap">
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra ID">
+<img src="https://img.shields.io/badge/Tenable-00A6CE?style=flat-square&logoColor=white" alt="Tenable">
+
+**Development**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#">
+
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** · [Credly](https://www.credly.com/badges/254262a4-45ee-47d1-80ed-121ea79c0ffd/linked_in_profile)
+- **Cisco Junior Cybersecurity Analyst Career Path** · [Credly](https://www.credly.com/badges/86805132-f7e8-494c-8026-57c73d060f91/linked_in_profile)
+- **Cisco Cyber Threat Management** · [Credly](https://www.credly.com/badges/9ec4aebb-c31b-45cc-9220-f55093cda755/public_url)
+
+## Currently learning
+
+Terraform · AWS serverless (Lambda, API Gateway, Step Functions) · AI agent security
+
+---
+
+<div align="center"><sub>Open to Cloud Security and Solutions Architecture opportunities · Medellín, Colombia · Remote</sub></div>
