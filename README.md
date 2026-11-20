@@ -10,7 +10,9 @@ Security-by-design cloud architectures · Vulnerability management · Identity s
 
 <a href="https://www.linkedin.com/in/fabio-hams-valois-marin-9514ab340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:hamsvalois@gmail.com"><img src="https://img.shields.io/badge/Email-hamsvalois%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<p>
 <img src="https://img.shields.io/badge/Medellín-Colombia-2E7D32?style=flat-square" alt="Medellín, Colombia">
+</p>
 
 </div>
 
@@ -41,36 +43,21 @@ Now **AWS Certified**, I focus on designing cloud solutions that are secure from
 
 **Cloud & DevOps**
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway">
+</p>
 
 **Security**
 
-<img src="https://img.shields.io/badge/Wazuh-3595D3?style=flat-square&logoColor=white" alt="Wazuh">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap">
-<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra ID">
-<img src="https://img.shields.io/badge/Tenable-00A6CE?style=flat-square&logoColor=white" alt="Tenable">
+<p>
+<img src="https://img.shields.io/badge/Wazuh-3595D3?style=flat-square&logoColor=white" alt="Wazuh"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" alt="Nmap"> <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"> <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Entra ID"> <img src="https://img.shields.io/badge/Tenable-00A6CE?style=flat-square&logoColor=white" alt="Tenable">
+</p>
 
 **Development**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#">
-
-## Certifications
-
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** · [Credly](https://www.credly.com/badges/254262a4-45ee-47d1-80ed-121ea79c0ffd/linked_in_profile)
-- **Cisco Junior Cybersecurity Analyst Career Path** · [Credly](https://www.credly.com/badges/86805132-f7e8-494c-8026-57c73d060f91/linked_in_profile)
-- **Cisco Cyber Threat Management** · [Credly](https://www.credly.com/badges/9ec4aebb-c31b-45cc-9220-f55093cda755/public_url)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white" alt="C#">
+</p>
 
 ## Currently learning
 
