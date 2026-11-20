@@ -25,9 +25,7 @@ I'm a cybersecurity engineer and software engineering student from Medellín, Co
 Now **AWS Certified**, I focus on designing cloud solutions that are secure from day one, following the AWS Well-Architected Framework: security, reliability, performance and cost.
 
 - 🛡️ Currently: vulnerability management, security baselines and offensive security at **hitss (Claro Colombia)**
-- 🏢 Founder of **[UltriaTech](https://ultriatech.cloud)**, a cybersecurity and AI consultancy
 - 🎤 Speaker on AI risks in cybersecurity at Talento Tech Colombia (Colombian Ministry of ICT)
-- 🚩 Team lead of **UMBRA**, a competitive CTF team
 
 ```bash
 $ whoami
@@ -53,7 +51,7 @@ $ cat ./focus.txt
 ## Beyond the code
 
 - ⚖️ I studied **law for three semesters** before switching to software engineering. I still read security policies like contracts.
-- 🚩 I lead **UMBRA**, a competitive CTF team: breaking things on purpose so we know how to protect them.
+- 🚩 I play **CTFs on Hack The Box**: breaking things on purpose so I know how to protect them. Some of my write-ups live in [htb-writeups](https://github.com/Neon18H/htb-writeups).
 - 🧠 I research how **LLM guardrails** can be bypassed through "context washing", and what that means for AI assistants in security.
 - 🏗️ I'm building **ArchiPlan** because I believe every architect should think in components, trade-offs and decisions.
 - 🎤 I enjoy teaching and speaking: security only works when people understand it.
