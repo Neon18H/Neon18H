@@ -24,8 +24,13 @@ I'm a cybersecurity engineer and software engineering student from Medellín, Co
 
 Now **AWS Certified**, I focus on designing cloud solutions that are secure from day one, following the AWS Well-Architected Framework: security, reliability, performance and cost.
 
-- 🛡️ Currently: vulnerability management, security baselines and offensive security at **hitss (Claro Colombia)**
-- 🎤 Speaker on AI risks in cybersecurity at Talento Tech Colombia (Colombian Ministry of ICT)
+**What you'll find here:**
+
+- 🔧 Security tools I build from scratch: a SIEM, a vulnerability management platform and honeypot infrastructure
+- 🏗️ Architecture tooling and cloud experiments on AWS
+- 🤖 AI experiments: RAG pipelines and LLM security
+- 🚩 Hack The Box write-ups
+- 🤝 Open to collaborating on security tooling and cloud projects
 
 ```bash
 $ whoami
